@@ -76,3 +76,13 @@ Progress pembelajaran sebesar **(89%)**
     * Tantangan Melakukan Pull-Request pada Repository Dicoding
     * Rangkuman Studi Kasus Kolaborasi dengan Tim
     * Kuis Studi Kasus Kolaborasi dengan Tim
+* GitHub sebagai Portfolio
+    * Pengantar GitHub sebagai Portofolio
+    * Mengapa GitHub Menjadi Portofolio para Developer
+    * Latihan Membuat Portofolio Menggunakan GitHub
+    * Latihan Melihat Portofolio para Developer
+    * Rangkuman GitHub sebagai Portofolio
+    * Kuis GitHub sebagai Portofolio
+* Penutup
+    * Rangkuman Kelas
+    * Ujian Akhir
