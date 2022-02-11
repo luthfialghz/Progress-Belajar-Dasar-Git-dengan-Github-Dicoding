@@ -1,5 +1,5 @@
 # Progress Belajar Dasar Git dengan GitHub di Dicoding Academy
-Progress pembelajaran sebesar **(76%)**
+Progress pembelajaran sebesar **(89%)**
 
 ## 10 Februari 2022 ##
 ### Modul Pembelajaran ###
@@ -62,3 +62,17 @@ Progress pembelajaran sebesar **(76%)**
     * Latihan Melakukan Code Reviews
     * Rangkuman Kolaborasi dengan Tim
     * Kuis Kolaborasi dengan Tim
+
+## 12 Februari 2022 ##
+### Modul Pembelajaran ###
+* Studi Kasus Kolaborasi dengan Tim
+    * Persiapan Studi Kasus Kolaborasi dengan Tim
+    * Membuat Repository Baru
+    * Menambahkan Aturan Mendaftar Volunter
+    * Menyalin Repository
+    * Menambahkan Data Diri dalam Berkas README.md
+    * Melakukan Pull Request
+    * Menangani Pull Request
+    * Tantangan Melakukan Pull-Request pada Repository Dicoding
+    * Rangkuman Studi Kasus Kolaborasi dengan Tim
+    * Kuis Studi Kasus Kolaborasi dengan Tim
