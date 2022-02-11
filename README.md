@@ -24,3 +24,18 @@ Progress pembelajaran sebesar **(22%)**
     * Latihan Membuat Release File
     * Rangkuman Dasar Git
     * Kuis Dasar Git
+
+## 11 Februari 2022 ##
+Progress pembelajaran sebesar **(48%)**
+### Modul Pembelajaran ###
+* Studi Kasus Pengalaman Belajar
+    * Persiapan Studi Kasus Pengalaman Belajar
+    * Membuat Repository Baru
+    * Menambahkan Pengalaman Belajar 
+    * Menambahkan Kembali Progres Belajar
+    * Mengubah Tampilan Menggunakan Format Markdown
+    * Tantangan Menambahkan Progres Belajar
+    * Melihat History Perubahan
+    * Merilis Dokumentasi Pengalaman Belajar
+    * Rangkuman Studi Kasus Pengalaman Belajar
+    * Kuis Studi Kasus Pengalaman Belajar
