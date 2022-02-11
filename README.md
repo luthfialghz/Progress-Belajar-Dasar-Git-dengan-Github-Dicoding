@@ -26,7 +26,7 @@ Progress pembelajaran sebesar **(22%)**
     * Kuis Dasar Git
 
 ## 11 Februari 2022 ##
-Progress pembelajaran sebesar **(48%)**
+Progress pembelajaran sebesar **(61%)**
 ### Modul Pembelajaran ###
 * Studi Kasus Pengalaman Belajar
     * Persiapan Studi Kasus Pengalaman Belajar
@@ -39,3 +39,14 @@ Progress pembelajaran sebesar **(48%)**
     * Merilis Dokumentasi Pengalaman Belajar
     * Rangkuman Studi Kasus Pengalaman Belajar
     * Kuis Studi Kasus Pengalaman Belajar
+* Git Branches
+    * Pengantar Git Branches
+    * Apa itu Branch
+    * Latihan Membuat Branch Baru
+    * Latihan Melakukan Perpindahan Branch
+    * Apa itu Merge
+    * Apa itu Pull Request
+    * Latihan Melakukan Merge
+    * Latihan Menyelesaikan Merge Conflict
+    * Rangkuman Git Branches
+    * Kuis Git Branches
