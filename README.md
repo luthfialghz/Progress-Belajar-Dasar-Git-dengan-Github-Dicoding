@@ -1,7 +1,7 @@
 # Progress Belajar Dasar Git dengan GitHub di Dicoding Academy
+Progress pembelajaran sebesar **(76%)**
 
 ## 10 Februari 2022 ##
-Progress pembelajaran sebesar **(22%)**
 ### Modul Pembelajaran ###
 * Git dan GitHub
     * Pengantar Git dan GitHub
@@ -26,7 +26,6 @@ Progress pembelajaran sebesar **(22%)**
     * Kuis Dasar Git
 
 ## 11 Februari 2022 ##
-Progress pembelajaran sebesar **(61%)**
 ### Modul Pembelajaran ###
 * Studi Kasus Pengalaman Belajar
     * Persiapan Studi Kasus Pengalaman Belajar
@@ -50,3 +49,16 @@ Progress pembelajaran sebesar **(61%)**
     * Latihan Menyelesaikan Merge Conflict
     * Rangkuman Git Branches
     * Kuis Git Branches
+* Kolaborasi dengan Tim
+    * Pengantar Kolaborasi dengan Tim
+    * Apa itu Kolaborasi
+    * Latihan Berkolaborasi dengan Tim
+    * Apa Itu Fork
+    * Latihan Berkolaborasi pada Public Repository
+    * Latihan Melakukan Revert
+    * Apa Itu Squashing Changes
+    * Latihan Melakukan Squashing Changes
+    * Apa Itu Code Reviews
+    * Latihan Melakukan Code Reviews
+    * Rangkuman Kolaborasi dengan Tim
+    * Kuis Kolaborasi dengan Tim
